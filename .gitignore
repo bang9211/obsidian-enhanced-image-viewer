@@ -19,6 +19,3 @@ yarn-error.log*
 
 # Optional npm cache directory
 .npm
-
-# Claude specific
-.claude/
