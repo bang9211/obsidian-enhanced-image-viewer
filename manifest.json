@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-enhanced-image-viewer",
+	"name": "Enhanced Image Viewer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Enhanced image viewer with zoom, copy, and keyboard shortcuts",
+	"author": "YT Han",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
